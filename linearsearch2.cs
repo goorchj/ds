@@ -5,7 +5,7 @@ class ls2
     public static void Main3 (string[] args)
     {
 
-        int[] element = {45,87,30,20,97,63,75,86,71};
+        int[] element = {45,25,87,30,20,97,63,75,86,71};
         int item =75;
                 int noe=element.Length;
                 int flag = -1;
